@@ -60,7 +60,7 @@
     "gatsby-theme-carbon": "^3.4.13",
     "lodash-es": "^4.17.15",
     "markdown-it": "^12.3.2",
-    "nanoid": "^2.1.11",
+    "nanoid": "^3.3.8",
     "prettier-config-carbon": "^0.4.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
